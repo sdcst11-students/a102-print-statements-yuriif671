@@ -1,4 +1,5 @@
 #! python3
+
 """
 We can use the \n characters to create a line break in the middle
 of a string.  Modify the followig program so that it is still only 1 print
@@ -13,4 +14,4 @@ This is the first sentence.
 This is the second sentence.
 """
 
-print("This is the first sentence. This is the second sentence.")
+print("This is the first sentence. \nThis is the second sentence.")
